@@ -49,6 +49,14 @@ button::-moz-focus-inner {
     padding: 0;
 }
 
+pre>code {
+    display: inline-block;
+}
+
+code {
+    border: 1px solid;
+}
+
 .navlink {
 	display: inline-block;
 	padding: 2px;
